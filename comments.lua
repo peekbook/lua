@@ -1,0 +1,4 @@
+--Comments
+--[[
+ Multi line comments
+]]
